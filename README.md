@@ -24,13 +24,6 @@ I'm **Ahmed Ali**, a passionate **Embedded Systems Engineer** specializing in **
 ![STM32](https://img.shields.io/badge/STM32-000000?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-FF5733?style=flat&logo=espressif&logoColor=white)
 
-#### **Communication Protocols**
-![UART](https://img.shields.io/badge/UART-orange?style=flat)
-![SPI](https://img.shields.io/badge/SPI-green?style=flat)
-![I2C](https://img.shields.io/badge/I2C-blue?style=flat)
-![CAN Bus](https://img.shields.io/badge/CAN-Bus-FF5733?style=flat&logoColor=white)
-![LIN](https://img.shields.io/badge/LIN-gray?style=flat)
-
 #### **Operating Systems**
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-32CD32?style=flat&logo=free&logoColor=white)
 ![OSEK/VDX](https://img.shields.io/badge/OSEK/VDX-purple?style=flat)
@@ -41,20 +34,6 @@ I'm **Ahmed Ali**, a passionate **Embedded Systems Engineer** specializing in **
 ![Atmel Studio](https://img.shields.io/badge/Atmel_Studio-blue?style=flat)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-darkblue?style=flat&logo=stmicroelectronics)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=flat&logo=visual-studio&logoColor=white)
-
-#### **Circuit Simulators**
-![Proteus](https://img.shields.io/badge/Proteus-00599C?style=flat)
-
----
-
-### 🛠 **Projects**
-| Project Name                      | Description                                                         | Technologies                  |
-|-----------------------------------|---------------------------------------------------------------------|--------------------------------|
-| **AUTOSAR Architecture Model**    | Implemented GPT, PORT, and DIO drivers following AUTOSAR 4.0.3 standards | TM4C123GH6PM, AUTOSAR, C       |
-| **Seat Heater Control System**    | Real-time heater control using FreeRTOS, with temperature diagnostics | TM4C123GH6PM, FreeRTOS, C      |
-| **RC-Car Project**                | Small-scale RC car with PWM motor control and sensor integration    | ATmega32, PWM, ADC, C          |
-| **Door Locker Security System**   | Password-based door security using two ATmega32 microcontrollers    | ATmega32, UART, C              |
-| **Smart Home System**             | Sensor-driven smart home automation with password protection        | ATmega32, Embedded C           |
 
 ---
 
