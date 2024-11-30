@@ -24,11 +24,6 @@ I'm **Ahmed Ali**, a passionate **Embedded Systems Engineer** specializing in **
 ![STM32](https://img.shields.io/badge/STM32-000000?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-FF5733?style=flat&logo=espressif&logoColor=white)
 
-#### **Operating Systems**
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-32CD32?style=flat&logo=free&logoColor=white)
-![OSEK/VDX](https://img.shields.io/badge/OSEK/VDX-purple?style=flat)
-![AUTOSAR OS](https://img.shields.io/badge/AUTOSAR%20OS-orange?style=flat)
-
 #### **Development Tools**
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![Atmel Studio](https://img.shields.io/badge/Atmel_Studio-blue?style=flat)
