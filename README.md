@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm **Ahmed Ali**, a passionate **Embedded Systems Engineer** specializing in **AUTOSAR**, **Real-Time Systems**, and **Microcontroller Programming**. Currently completing my degree at **Helwan University** with a strong focus on automotive technology.
+I'm **Ahmed Ali**, a passionate **Embedded Systems Engineer** specializing in **AUTOSAR**, **Real-Time Systems**, and **Microcontroller Programming**. Currently I have completed my degree at **Helwan University** with a strong focus on automotive technology.
 
 ---
 
