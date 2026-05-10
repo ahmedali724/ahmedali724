@@ -1,44 +1,78 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm **Ahmed Ali**, a passionate **Embedded Systems Engineer** specializing in **AUTOSAR**, **Real-Time Systems**, and **Microcontroller Programming**. Currently I have completed my degree at **Helwan University** with a strong focus on automotive technology.
+I'm **Ahmed Ali**, a **Computer Engineering graduate** and a **Full Stack .NET trainee at ITI** passionate about building scalable software solutions and solving real-world problems.
+I have a strong foundation in **Software Engineering**, **ASP.NET Core**, **RESTful APIs**, and **Database Development**, with hands-on experience developing full-stack applications and embedded systems projects.
 
 ---
 
-### 🚀 **About Me**
-- 🎓 **Education:** Computer Engineering, Helwan University
-- 🛠 **Expertise:** Embedded Systems, AUTOSAR, RTOS, Automotive Protocols
+## 🚀 About Me
+
+* 🎓 **B.Sc. in Computer Engineering** — Helwan University *(With Honors)*
+* 📚 **ITI 9-Month Diploma Trainee** — Professional Development & BI-infused CRM Track
+* 💻 Passionate about **Backend Development**, **Full Stack .NET**, and **Software Architecture**
+* ⚡ Interested in building scalable web applications and clean software solutions
 
 ---
 
-### 💻 **Technical Skills**
-#### **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+## 💻 Technical Skills
 
-#### **Microcontroller Architecture**
-![AVR](https://img.shields.io/badge/AVR-EE4C2C?style=flat&logo=atmel&logoColor=white)
-![ARM Cortex-M](https://img.shields.io/badge/ARM-Cortex--M-blue?style=flat&logo=arm&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-000000?style=flat&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-FF5733?style=flat&logo=espressif&logoColor=white)
+### 🧠 Programming Languages
 
-#### **Development Tools**
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Atmel Studio](https://img.shields.io/badge/Atmel_Studio-blue?style=flat)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-darkblue?style=flat&logo=stmicroelectronics)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=flat&logo=visual-studio&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=c-sharp\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 
 ---
 
-### 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedali724&show_icons=true&theme=radical)
+### 🌐 Frontend Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat\&logo=bootstrap\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat\&logo=jquery\&logoColor=white)
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=ahmedali724&color=blue)
+### ⚙️ Backend & .NET
 
-### 🌐 **Connect with Me**
-- **LinkedIn:** [Ahmed Ali](https://www.linkedin.com/in/ahmed-ali724/)
-- **Email:** [ahmedalifahmy837@gmail.com](mailto:ahmedalifahmy837@gmail.com)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_API-02569B?style=flat)
+
+---
+
+### 🗄️ Database Technologies
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
+
+---
+
+### 🛠 Software Engineering
+
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+* SOLID Principles
+* Design Patterns
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmedali724&theme=radical)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedali724\&color=blue)
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/ahmed-ali724/](https://www.linkedin.com/in/ahmed-ali724/)
+* 📧 Email: [mailto:ahmedalifahmy837@gmail.com](mailto:ahmedalifahmy837@gmail.com)
+* 🐙 GitHub: [https://github.com/ahmedali724](https://github.com/ahmedali724)
