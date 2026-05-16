@@ -61,12 +61,6 @@ I have a strong foundation in **Software Engineering**, **ASP.NET Core**, **REST
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmedali724&theme=radical)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedali724\&color=blue)
 
 ---
